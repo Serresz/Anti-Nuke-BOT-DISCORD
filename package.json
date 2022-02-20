@@ -1,0 +1,22 @@
+{
+  "name": "anti-nuke-bot",
+  "version": "1.0.0",
+  "description": "Discord BOT Anti nuke By Serresz",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Serresz/Anti-Nuke-BOT-DISCORD.git"
+  },
+  "author": "Serresz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Serresz/Anti-Nuke-BOT-DISCORD/issues"
+  },
+  "homepage": "https://github.com/Serresz/Anti-Nuke-BOT-DISCORD#readme",
+  "dependencies": {
+    "discord.js": "^13.6.0"
+  }
+}
