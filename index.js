@@ -88,6 +88,34 @@ client.on("guildMemberAdd", async(member) => {
     }
 })
 
+client.on("messageCreate", async(message) => {
+    if (message.content.includes("discord.gg")) {
+        message.member.ban({
+            reason: "Phishing links"
+        }).catch((err) => console.log(`I couldn't ban the user because of: ${err}`));
+    }
+    if (message.content.includes("discord.me")) {
+        message.member.ban({
+            reason: "Phishing links"
+        }).catch((err) => console.log(`I couldn't ban the user because of: ${err}`));
+    }
+    if (message.content.includes("discordapp.com")) {
+        message.member.ban({
+            reason: "Phishing links"
+        }).catch((err) => console.log(`I couldn't ban the user because of: ${err}`));
+    }
+    if (message.content.includes("discord.me")) {
+        message.member.ban({
+            reason: "Phishing links"
+        }).catch((err) => console.log(`I couldn't ban the user because of: ${err}`));
+    }
+    if (message.content.includes("discnrd.gift")) {
+        message.member.ban({
+            reason: "Phishing links"
+        }).catch((err) => console.log(`I couldn't ban the user because of: ${err}`));
+    }
+})  
+
 client.login(config.token);
 
 
