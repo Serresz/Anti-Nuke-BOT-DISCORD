@@ -32,7 +32,7 @@ module.exports = {
 ## MIT License
 
 ```md
-Copyright (c) 2021 Tae5609
+Copyright (c) 2021 Serresz
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
