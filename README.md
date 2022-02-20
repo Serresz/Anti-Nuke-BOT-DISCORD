@@ -24,5 +24,7 @@ module.exports = {
 
 ## Contact 
 [Serresz](https://discord.com/users/904683149563408435)
+
 [Website](https://rubyz.xyz)
+
 [Server](https://discord.gg/G2ueFdztdV)
