@@ -25,4 +25,4 @@ module.exports = {
 ## Contact 
 [Serresz](https://discord.com/users/904683149563408435)
 [Website](https://rubyz.xyz)
-<a href="https://discord.gg/G2ueFdztdV"></a><img src="https://discord.com/api/guilds/927132985839452231/widget.json"> </img>
+<a href="https://discord.gg/G2ueFdztdV"><img src="https://discord.com/api/guilds/927132985839452231/widget.png?style=banner2"></a>
